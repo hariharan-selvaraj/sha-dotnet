@@ -1,0 +1,313 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\SHA\PublishContent</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AppFiles/css/common.css">
+      <publishTime>04/10/2024 11:52:45</publishTime>
+    </File>
+    <File Include="AppFiles/css/grid.css">
+      <publishTime>04/26/2024 14:02:15</publishTime>
+    </File>
+    <File Include="AppFiles/css/login.css">
+      <publishTime>04/14/2024 02:36:33</publishTime>
+    </File>
+    <File Include="AppFiles/css/popupCommon.css">
+      <publishTime>04/27/2024 19:00:45</publishTime>
+    </File>
+    <File Include="AppFiles/css/welcomePage.css">
+      <publishTime>04/26/2024 18:44:58</publishTime>
+    </File>
+    <File Include="AppFiles/js/loginScript.js">
+      <publishTime>04/10/2024 10:57:45</publishTime>
+    </File>
+    <File Include="AppFiles/Logo/about.png.png">
+      <publishTime>04/10/2024 10:57:45</publishTime>
+    </File>
+    <File Include="AppFiles/Logo/classes.png.png">
+      <publishTime>04/10/2024 10:57:45</publishTime>
+    </File>
+    <File Include="AppFiles/Logo/favicon.png">
+      <publishTime>04/10/2024 10:57:45</publishTime>
+    </File>
+    <File Include="AppFiles/Logo/gallary.jpg.png">
+      <publishTime>04/10/2024 10:57:45</publishTime>
+    </File>
+    <File Include="AppFiles/Logo/ShaLogo.png">
+      <publishTime>04/10/2024 10:57:45</publishTime>
+    </File>
+    <File Include="AppFiles/Logo/teachers.jpg.jpg">
+      <publishTime>04/10/2024 10:57:45</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/CompanyMaster.aspx">
+      <publishTime>04/27/2024 18:50:58</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/DashBoard.aspx">
+      <publishTime>04/22/2024 11:27:17</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/Gallery.aspx">
+      <publishTime>04/22/2024 11:27:43</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/Home.aspx">
+      <publishTime>04/22/2024 11:28:27</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/loginPage.aspx">
+      <publishTime>04/27/2024 19:47:14</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/Modules.aspx">
+      <publishTime>04/22/2024 11:28:43</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/Officer.aspx">
+      <publishTime>04/22/2024 11:29:03</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/Order.aspx">
+      <publishTime>04/22/2024 11:29:22</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/registerPage.aspx">
+      <publishTime>04/30/2024 10:52:49</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/Service.aspx">
+      <publishTime>04/22/2024 11:29:49</publishTime>
+    </File>
+    <File Include="AppForms/ControlPanel/welcomePage.aspx">
+      <publishTime>04/17/2024 20:38:27</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>04/10/2024 10:57:44</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>04/10/2024 10:57:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>04/10/2024 10:57:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>04/10/2024 10:57:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>04/10/2024 10:57:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>04/10/2024 10:57:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>04/10/2024 10:57:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>04/10/2024 10:57:41</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>04/10/2024 10:57:39</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/10/2024 10:57:42</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/03/2023 07:09:56</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>04/10/2024 10:57:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>04/10/2024 10:57:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>04/10/2024 10:57:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>04/10/2024 10:57:42</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>04/10/2024 10:57:43</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>04/10/2024 10:57:43</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>04/10/2024 10:57:43</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>04/10/2024 10:57:43</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>04/10/2024 10:57:43</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>04/10/2024 10:57:43</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>04/10/2024 10:57:43</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>04/10/2024 10:57:43</publishTime>
+    </File>
+    <File Include="bin/SHA.BLL.dll">
+      <publishTime>04/28/2024 21:33:33</publishTime>
+    </File>
+    <File Include="bin/SHA.Data.dll">
+      <publishTime>04/28/2024 21:33:32</publishTime>
+    </File>
+    <File Include="bin/ShaApplication.dll">
+      <publishTime>04/30/2024 11:09:14</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.css">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.css.map">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.min.css">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.min.css.map">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.rtl.css">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.rtl.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.rtl.min.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.rtl.min.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.min.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.min.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.rtl.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.rtl.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.rtl.min.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.rtl.min.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-utilities.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-utilities.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-utilities.min.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-utilities.min.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-utilities.rtl.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-utilities.rtl.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-utilities.rtl.min.css">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap-utilities.rtl.min.css.map">
+      <publishTime>04/10/2024 10:57:48</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css.map">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.rtl.css">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.rtl.css.map">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.rtl.min.css">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Content/bootstrap.rtl.min.css.map">
+      <publishTime>04/10/2024 10:57:47</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/10/2024 10:57:44</publishTime>
+    </File>
+    <File Include="Master/LoginLayout.Master">
+      <publishTime>04/28/2024 15:44:06</publishTime>
+    </File>
+    <File Include="Master/MainLayout.Master">
+      <publishTime>04/28/2024 16:08:56</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/16/2024 11:58:59</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>04/10/2024 10:57:49</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>04/10/2024 10:57:49</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.bundle.js">
+      <publishTime>04/10/2024 10:57:49</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.bundle.js.map">
+      <publishTime>04/10/2024 10:57:49</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.bundle.min.js">
+      <publishTime>04/10/2024 10:57:49</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.bundle.min.js.map">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.esm.js">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.esm.js.map">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.esm.min.js">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.esm.min.js.map">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.js">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.js.map">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.min.js">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.min.js.map">
+      <publishTime>04/10/2024 10:57:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/30/2024 11:09:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

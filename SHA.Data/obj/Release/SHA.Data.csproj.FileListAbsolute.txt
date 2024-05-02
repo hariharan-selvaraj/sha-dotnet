@@ -1,0 +1,5 @@
+D:\WorkSpace\ASPDOTNET\SHA\SHA.Data\bin\Release\SHA.Data.dll
+D:\WorkSpace\ASPDOTNET\SHA\SHA.Data\bin\Release\SHA.Data.pdb
+D:\WorkSpace\ASPDOTNET\SHA\SHA.Data\obj\Release\SHA.Data.csprojResolveAssemblyReference.cache
+D:\WorkSpace\ASPDOTNET\SHA\SHA.Data\obj\Release\SHA.Data.dll
+D:\WorkSpace\ASPDOTNET\SHA\SHA.Data\obj\Release\SHA.Data.pdb

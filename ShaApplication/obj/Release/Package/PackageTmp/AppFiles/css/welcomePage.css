@@ -1,0 +1,146 @@
+﻿body {
+    height: 100vh;
+}
+
+.welcome-container a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+    font-size: 1.5rem;
+    color: #000;
+    font-weight: 500;
+    padding: 0;
+}
+
+.welcome-container .menu-image-icon:hover {
+    transform: scale(1.1);
+}
+
+.menu-image-icon {
+    height: 60%;
+    border-radius: 10px;
+    width: 34%;
+}
+
+.welcome-container {
+    transition: transform 0.3s ease;
+    height: 100%;
+    display: grid;
+    align-items: center;
+}
+
+#image_Container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#menuContainer {
+    background-color: #17a2b840;
+    flex-direction: column;
+    display: flex;
+}
+
+.nav-item-left {
+    margin-left: 50px;
+    width: 80%;
+    padding: 0.3rem;
+}
+
+.footer-para {
+    padding: 0.6rem;
+}
+
+#icon_conatiner {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+.icon-breadcrumb-container {
+    display: inline-block;
+    cursor: pointer;
+    height: 40px;
+}
+
+    .icon-breadcrumb-container i {
+        height: 27px;
+        font-size: 28px;
+        margin: 10px 0px;
+    }
+
+#icon_conatiner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon-handburger-container {
+    display: inline-block;
+    cursor: pointer;
+    height: 40px;
+}
+
+.icon-handburger-container i {
+     height: 27px;
+     font-size: 28px;
+     margin: 10px 0px;
+}
+
+.pg-header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    font-size: 100%;
+    padding: 10px;
+}
+
+.menu-container {
+    min-width: 16%;
+    max-width: 16%;
+}
+
+.menu-container ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    padding-left: 0px;
+    padding-top: 10px;
+}
+
+.menu-container ul li {
+    padding-left: 35px;
+    padding-top: 10px;
+    cursor: pointer;    
+}
+
+.menu-task {
+    text-decoration: none;
+}
+
+.menu-name-show {
+    text-align: center;
+    font-size: 90%;
+    font-weight: bold;
+}
+
+.menu-name-hide {
+    display: none;
+}
+
+.menu-icon {
+    font-size: 20px;
+    margin-right: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.center-align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}

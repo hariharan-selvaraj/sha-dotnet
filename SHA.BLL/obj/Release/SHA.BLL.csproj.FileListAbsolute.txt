@@ -1,0 +1,8 @@
+D:\WorkSpace\ASPDOTNET\SHA\SHA.BLL\bin\Release\SHA.BLL.dll.config
+D:\WorkSpace\ASPDOTNET\SHA\SHA.BLL\bin\Release\SHA.BLL.dll
+D:\WorkSpace\ASPDOTNET\SHA\SHA.BLL\bin\Release\SHA.BLL.pdb
+D:\WorkSpace\ASPDOTNET\SHA\SHA.BLL\bin\Release\SHA.Data.dll
+D:\WorkSpace\ASPDOTNET\SHA\SHA.BLL\bin\Release\SHA.Data.pdb
+D:\WorkSpace\ASPDOTNET\SHA\SHA.BLL\obj\Release\SHA.BLL.csprojResolveAssemblyReference.cache
+D:\WorkSpace\ASPDOTNET\SHA\SHA.BLL\obj\Release\SHA.BLL.dll
+D:\WorkSpace\ASPDOTNET\SHA\SHA.BLL\obj\Release\SHA.BLL.pdb
